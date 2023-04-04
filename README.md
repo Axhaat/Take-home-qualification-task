@@ -1,6 +1,6 @@
 # camera_qtask
 
-A new Flutter project.
+AutoZooming app( it is not completely done )
 
 ## Getting Started
 
